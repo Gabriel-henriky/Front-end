@@ -1,0 +1,18 @@
+.tabela{
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td{
+    border: 1px solid green;
+    text-align: center;
+    padding: 10px;
+}
+
+th{
+    background-color: black;
+    color: white;
+}
+
+.topo{
+    text-align: center;
+}
